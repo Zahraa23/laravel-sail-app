@@ -21,6 +21,6 @@
         </style>
     </head>
     <body class="antialiased">
-      <h1>   “Welcome! My name is: Zahraa. This is the Production Environment!”. </h1> 
+      <h1>   “Welcome! My name is:Zahraa. This is the Staging Environment!”. </h1> 
     </body>
 </html>
